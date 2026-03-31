@@ -1,0 +1,31 @@
+# 配置文件(包含敏感信息)
+config.json
+
+# 日志文件
+*.log
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地专用脚本/文档（不上传）
+grab_course_leak_any9_manual.py
+使用教程-9门捡漏版.md
